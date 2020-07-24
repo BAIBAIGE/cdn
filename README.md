@@ -1,1 +1,1 @@
-# statics
+这里主要存储一些静态文件并通过jsdelivr加速
